@@ -12,3 +12,6 @@ My blog made with [jekyll](http://jekyllrb.com) and hosted with Github Pages.
 
 ### License
 All this stuff is under the [MIT License](https://raw.githubusercontent.com/getmicah/getmicah.github.io/master/LICENSE)
+
+### History
+This blog theme comes from [zeove](https://zeove.com/) [Github](https://github.com/zeove/zeove.github.io).
