@@ -205,9 +205,12 @@ ul {
 			line-height: 1;
 			border-radius: 3px;
 			background: $color-black;
+			overflow: hidden;
 			code {
 				color: $color-code;
 				background: none;
+				display: block;
+				overflow-y: scroll;
 			}
 		}
 		.codebreak {
