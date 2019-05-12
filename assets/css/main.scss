@@ -185,6 +185,23 @@ ul {
 				margin-left: 10px;
 			}
 		}
+		table{
+			border-collapse: inherit;
+			border-spacing: 0;
+			// border:2px solid #ff0000;
+			margin-left: auto;
+			margin-top: 10px;
+			margin-right: auto;
+			margin-bottom: 10px;
+		}
+		
+		th{
+			border:2px solid #000000;
+		}
+		
+		td{
+			border:1px solid #000000;
+		}
 		img {
 			margin-top: 10px;
 			margin-bottom: 10px;
