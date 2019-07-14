@@ -14,11 +14,12 @@ layout: list
 
 -- [thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)
 
+北京大学课程资料整理 -- [libpku](https://github.com/lib-pku/libpku)
+
+-- [Website](https://lib-pku.github.io/)
+
 浙江大学课程攻略共享计划 -- [zju-icicles](https://github.com/QSCTech/zju-icicles)  
 
 -- [website](https://qsctech.github.io/zju-icicles/)
 
-北京大学课程资料整理 -- [libpku](https://github.com/lib-pku/libpku)
-
--- [Website](https://lib-pku.github.io/)
 
