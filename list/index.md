@@ -30,4 +30,5 @@ layout: list
 
 -- [Website](https://ustc-resource.github.io/USTC-Course/)
 
+上海交通大学课程资料分享 -- [SJTU-Courses](https://github.com/CoolPhilChen/SJTU-Courses/)
 
