@@ -18,3 +18,7 @@ layout: list
 
 -- [website](https://qsctech.github.io/zju-icicles/)
 
+北京大学课程资料整理 -- [libpku](https://github.com/lib-pku/libpku)
+
+-- [Website](https://lib-pku.github.io/)
+
