@@ -18,8 +18,12 @@ layout: list
 
 -- [Website](https://lib-pku.github.io/)
 
+-- [北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)
+
 浙江大学课程攻略共享计划 -- [zju-icicles](https://github.com/QSCTech/zju-icicles)  
 
 -- [website](https://qsctech.github.io/zju-icicles/)
+
+东南大学课程共享计划 -- [seucourseshare](https://github.com/zjdx1998/seucourseshare)
 
 
