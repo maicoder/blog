@@ -26,4 +26,8 @@ layout: list
 
 东南大学课程共享计划 -- [seucourseshare](https://github.com/zjdx1998/seucourseshare)
 
+中国科学技术大学课程资源 -- [USTC-Course](https://github.com/USTC-Resource/USTC-Course)
+
+-- [Website](https://ustc-resource.github.io/USTC-Course/)
+
 
